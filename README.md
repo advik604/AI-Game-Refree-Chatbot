@@ -1,1 +1,2 @@
 # AI-Game-Refree-Chatbot
+I implemented a minimal AI referee for a Rock–Paper–Scissors–Plus game, focusing on logical correctness, clear agent design, and clean state management. The solution enforces all game rules, including bomb usage limits and invalid input handling, tracks state across turns, and concludes automatically after three rounds. I followed an ADK-style approach by keeping validation, game resolution, and state updates in explicit helper functions, which keeps the conversational logic simple and readable while maintaining product clarity.
